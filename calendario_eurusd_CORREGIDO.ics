@@ -1,0 +1,624 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Proyecto EURUSD Institucional//Calendario//ES
+CALSCALE:GREGORIAN
+X-WR-CALNAME:EUR-USD Calendario (FED-BCE)
+BEGIN:VEVENT
+SUMMARY:Reunion FED (con SEP y dot plot)
+DTSTART:20260916T180000Z
+DTSTAMP:20260916T131223Z
+UID:fomc-20260916@eurusd-calendario
+DESCRIPTION:REUNION FED - con SEP y dot plot\nHora decision: 14:00 hora de
+ l Este / rueda de prensa 14:30 hora del Este.\nIncluye proyecciones (SEP/d
+ ot plot): SI\n\nPASO 1 - De que va a tratar (Beige Book):\nhttps://www.fed
+ eralreserve.gov/monetarypolicy/beige-book-default.htm\n\nPASO 2 - Datos of
+ iciales desde la reunion anterior (CPI/NFP/PCE):\nhttps://www.bls.gov\nhtt
+ ps://www.bea.gov\n\nPASO 3 - Consenso y noticias:\nhttps://www.investing.c
+ om/economic-calendar\nhttps://www.reuters.com/markets/us\nhttps://www.bloo
+ mberg.com/markets/economics\nhttps://www.ft.com/central-banks\n\nPASO 4 - 
+ Que tiene ya descontado el mercado (CME FedWatch):\nhttps://www.cmegroup.c
+ om/markets/interest-rates/cme-fedwatch-tool.html\n\nPASO 5 - Volatilidad e
+ sperada (CME CVOL\, codigo EUVL para EUR/USD):\nhttps://www.cmegroup.com/c
+ vol\n\nPASO 6 - Comunicado oficial del dia (consultar tras la decision):\n
+ https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion FED (sin proyecciones)
+DTSTART:20261028T180000Z
+DTSTAMP:20260916T131223Z
+UID:fomc-20261028@eurusd-calendario
+DESCRIPTION:REUNION FED - sin proyecciones\nHora decision: 14:00 hora del 
+ Este / rueda de prensa 14:30 hora del Este.\nIncluye proyecciones (SEP/dot
+  plot): No\n\nPASO 1 - De que va a tratar (Beige Book):\nhttps://www.feder
+ alreserve.gov/monetarypolicy/beige-book-default.htm\n\nPASO 2 - Datos ofic
+ iales desde la reunion anterior (CPI/NFP/PCE):\nhttps://www.bls.gov\nhttps
+ ://www.bea.gov\n\nPASO 3 - Consenso y noticias:\nhttps://www.investing.com
+ /economic-calendar\nhttps://www.reuters.com/markets/us\nhttps://www.bloomb
+ erg.com/markets/economics\nhttps://www.ft.com/central-banks\n\nPASO 4 - Qu
+ e tiene ya descontado el mercado (CME FedWatch):\nhttps://www.cmegroup.com
+ /markets/interest-rates/cme-fedwatch-tool.html\n\nPASO 5 - Volatilidad esp
+ erada (CME CVOL\, codigo EUVL para EUR/USD):\nhttps://www.cmegroup.com/cvo
+ l\n\nPASO 6 - Comunicado oficial del dia (consultar tras la decision):\nht
+ tps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion FED (con SEP y dot plot)
+DTSTART:20261209T190000Z
+DTSTAMP:20260916T131223Z
+UID:fomc-20261209@eurusd-calendario
+DESCRIPTION:REUNION FED - con SEP y dot plot\nHora decision: 14:00 hora de
+ l Este / rueda de prensa 14:30 hora del Este.\nIncluye proyecciones (SEP/d
+ ot plot): SI\n\nPASO 1 - De que va a tratar (Beige Book):\nhttps://www.fed
+ eralreserve.gov/monetarypolicy/beige-book-default.htm\n\nPASO 2 - Datos of
+ iciales desde la reunion anterior (CPI/NFP/PCE):\nhttps://www.bls.gov\nhtt
+ ps://www.bea.gov\n\nPASO 3 - Consenso y noticias:\nhttps://www.investing.c
+ om/economic-calendar\nhttps://www.reuters.com/markets/us\nhttps://www.bloo
+ mberg.com/markets/economics\nhttps://www.ft.com/central-banks\n\nPASO 4 - 
+ Que tiene ya descontado el mercado (CME FedWatch):\nhttps://www.cmegroup.c
+ om/markets/interest-rates/cme-fedwatch-tool.html\n\nPASO 5 - Volatilidad e
+ sperada (CME CVOL\, codigo EUVL para EUR/USD):\nhttps://www.cmegroup.com/c
+ vol\n\nPASO 6 - Comunicado oficial del dia (consultar tras la decision):\n
+ https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion FED (tentativa\, sin proyecciones)
+DTSTART:20270127T190000Z
+DTSTAMP:20260916T131223Z
+UID:fomc-20270127@eurusd-calendario
+DESCRIPTION:REUNION FED - tentativa\, sin proyecciones\nHora decision: 14:
+ 00 hora del Este / rueda de prensa 14:30 hora del Este.\nIncluye proyeccio
+ nes (SEP/dot plot): No\n\nPASO 1 - De que va a tratar (Beige Book):\nhttps
+ ://www.federalreserve.gov/monetarypolicy/beige-book-default.htm\n\nPASO 2 
+ - Datos oficiales desde la reunion anterior (CPI/NFP/PCE):\nhttps://www.bl
+ s.gov\nhttps://www.bea.gov\n\nPASO 3 - Consenso y noticias:\nhttps://www.i
+ nvesting.com/economic-calendar\nhttps://www.reuters.com/markets/us\nhttps:
+ //www.bloomberg.com/markets/economics\nhttps://www.ft.com/central-banks\n
+ \nPASO 4 - Que tiene ya descontado el mercado (CME FedWatch):\nhttps://www
+ .cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html\n\nPASO 5 - Vo
+ latilidad esperada (CME CVOL\, codigo EUVL para EUR/USD):\nhttps://www.cme
+ group.com/cvol\n\nPASO 6 - Comunicado oficial del dia (consultar tras la d
+ ecision):\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion FED (tentativa\, con SEP y dot plot)
+DTSTART:20270317T180000Z
+DTSTAMP:20260916T131223Z
+UID:fomc-20270317@eurusd-calendario
+DESCRIPTION:REUNION FED - tentativa\, con SEP y dot plot\nHora decision: 1
+ 4:00 hora del Este / rueda de prensa 14:30 hora del Este.\nIncluye proyecc
+ iones (SEP/dot plot): SI\n\nPASO 1 - De que va a tratar (Beige Book):\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/beige-book-default.htm\n\nPASO 
+ 2 - Datos oficiales desde la reunion anterior (CPI/NFP/PCE):\nhttps://www.
+ bls.gov\nhttps://www.bea.gov\n\nPASO 3 - Consenso y noticias:\nhttps://www
+ .investing.com/economic-calendar\nhttps://www.reuters.com/markets/us\nhttp
+ s://www.bloomberg.com/markets/economics\nhttps://www.ft.com/central-banks
+ \n\nPASO 4 - Que tiene ya descontado el mercado (CME FedWatch):\nhttps://w
+ ww.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html\n\nPASO 5 - 
+ Volatilidad esperada (CME CVOL\, codigo EUVL para EUR/USD):\nhttps://www.c
+ megroup.com/cvol\n\nPASO 6 - Comunicado oficial del dia (consultar tras la
+  decision):\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.h
+ tm\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion FED (tentativa\, sin proyecciones)
+DTSTART:20270428T180000Z
+DTSTAMP:20260916T131223Z
+UID:fomc-20270428@eurusd-calendario
+DESCRIPTION:REUNION FED - tentativa\, sin proyecciones\nHora decision: 14:
+ 00 hora del Este / rueda de prensa 14:30 hora del Este.\nIncluye proyeccio
+ nes (SEP/dot plot): No\n\nPASO 1 - De que va a tratar (Beige Book):\nhttps
+ ://www.federalreserve.gov/monetarypolicy/beige-book-default.htm\n\nPASO 2 
+ - Datos oficiales desde la reunion anterior (CPI/NFP/PCE):\nhttps://www.bl
+ s.gov\nhttps://www.bea.gov\n\nPASO 3 - Consenso y noticias:\nhttps://www.i
+ nvesting.com/economic-calendar\nhttps://www.reuters.com/markets/us\nhttps:
+ //www.bloomberg.com/markets/economics\nhttps://www.ft.com/central-banks\n
+ \nPASO 4 - Que tiene ya descontado el mercado (CME FedWatch):\nhttps://www
+ .cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html\n\nPASO 5 - Vo
+ latilidad esperada (CME CVOL\, codigo EUVL para EUR/USD):\nhttps://www.cme
+ group.com/cvol\n\nPASO 6 - Comunicado oficial del dia (consultar tras la d
+ ecision):\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion FED (tentativa\, con SEP y dot plot)
+DTSTART:20270609T180000Z
+DTSTAMP:20260916T131223Z
+UID:fomc-20270609@eurusd-calendario
+DESCRIPTION:REUNION FED - tentativa\, con SEP y dot plot\nHora decision: 1
+ 4:00 hora del Este / rueda de prensa 14:30 hora del Este.\nIncluye proyecc
+ iones (SEP/dot plot): SI\n\nPASO 1 - De que va a tratar (Beige Book):\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/beige-book-default.htm\n\nPASO 
+ 2 - Datos oficiales desde la reunion anterior (CPI/NFP/PCE):\nhttps://www.
+ bls.gov\nhttps://www.bea.gov\n\nPASO 3 - Consenso y noticias:\nhttps://www
+ .investing.com/economic-calendar\nhttps://www.reuters.com/markets/us\nhttp
+ s://www.bloomberg.com/markets/economics\nhttps://www.ft.com/central-banks
+ \n\nPASO 4 - Que tiene ya descontado el mercado (CME FedWatch):\nhttps://w
+ ww.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html\n\nPASO 5 - 
+ Volatilidad esperada (CME CVOL\, codigo EUVL para EUR/USD):\nhttps://www.c
+ megroup.com/cvol\n\nPASO 6 - Comunicado oficial del dia (consultar tras la
+  decision):\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.h
+ tm\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion FED (tentativa\, sin proyecciones)
+DTSTART:20270728T180000Z
+DTSTAMP:20260916T131223Z
+UID:fomc-20270728@eurusd-calendario
+DESCRIPTION:REUNION FED - tentativa\, sin proyecciones\nHora decision: 14:
+ 00 hora del Este / rueda de prensa 14:30 hora del Este.\nIncluye proyeccio
+ nes (SEP/dot plot): No\n\nPASO 1 - De que va a tratar (Beige Book):\nhttps
+ ://www.federalreserve.gov/monetarypolicy/beige-book-default.htm\n\nPASO 2 
+ - Datos oficiales desde la reunion anterior (CPI/NFP/PCE):\nhttps://www.bl
+ s.gov\nhttps://www.bea.gov\n\nPASO 3 - Consenso y noticias:\nhttps://www.i
+ nvesting.com/economic-calendar\nhttps://www.reuters.com/markets/us\nhttps:
+ //www.bloomberg.com/markets/economics\nhttps://www.ft.com/central-banks\n
+ \nPASO 4 - Que tiene ya descontado el mercado (CME FedWatch):\nhttps://www
+ .cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html\n\nPASO 5 - Vo
+ latilidad esperada (CME CVOL\, codigo EUVL para EUR/USD):\nhttps://www.cme
+ group.com/cvol\n\nPASO 6 - Comunicado oficial del dia (consultar tras la d
+ ecision):\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion FED (tentativa\, con SEP y dot plot)
+DTSTART:20270915T180000Z
+DTSTAMP:20260916T131223Z
+UID:fomc-20270915@eurusd-calendario
+DESCRIPTION:REUNION FED - tentativa\, con SEP y dot plot\nHora decision: 1
+ 4:00 hora del Este / rueda de prensa 14:30 hora del Este.\nIncluye proyecc
+ iones (SEP/dot plot): SI\n\nPASO 1 - De que va a tratar (Beige Book):\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/beige-book-default.htm\n\nPASO 
+ 2 - Datos oficiales desde la reunion anterior (CPI/NFP/PCE):\nhttps://www.
+ bls.gov\nhttps://www.bea.gov\n\nPASO 3 - Consenso y noticias:\nhttps://www
+ .investing.com/economic-calendar\nhttps://www.reuters.com/markets/us\nhttp
+ s://www.bloomberg.com/markets/economics\nhttps://www.ft.com/central-banks
+ \n\nPASO 4 - Que tiene ya descontado el mercado (CME FedWatch):\nhttps://w
+ ww.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html\n\nPASO 5 - 
+ Volatilidad esperada (CME CVOL\, codigo EUVL para EUR/USD):\nhttps://www.c
+ megroup.com/cvol\n\nPASO 6 - Comunicado oficial del dia (consultar tras la
+  decision):\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.h
+ tm\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion FED (tentativa\, sin proyecciones)
+DTSTART:20271027T180000Z
+DTSTAMP:20260916T131223Z
+UID:fomc-20271027@eurusd-calendario
+DESCRIPTION:REUNION FED - tentativa\, sin proyecciones\nHora decision: 14:
+ 00 hora del Este / rueda de prensa 14:30 hora del Este.\nIncluye proyeccio
+ nes (SEP/dot plot): No\n\nPASO 1 - De que va a tratar (Beige Book):\nhttps
+ ://www.federalreserve.gov/monetarypolicy/beige-book-default.htm\n\nPASO 2 
+ - Datos oficiales desde la reunion anterior (CPI/NFP/PCE):\nhttps://www.bl
+ s.gov\nhttps://www.bea.gov\n\nPASO 3 - Consenso y noticias:\nhttps://www.i
+ nvesting.com/economic-calendar\nhttps://www.reuters.com/markets/us\nhttps:
+ //www.bloomberg.com/markets/economics\nhttps://www.ft.com/central-banks\n
+ \nPASO 4 - Que tiene ya descontado el mercado (CME FedWatch):\nhttps://www
+ .cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html\n\nPASO 5 - Vo
+ latilidad esperada (CME CVOL\, codigo EUVL para EUR/USD):\nhttps://www.cme
+ group.com/cvol\n\nPASO 6 - Comunicado oficial del dia (consultar tras la d
+ ecision):\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion FED (tentativa\, con SEP y dot plot)
+DTSTART:20271208T190000Z
+DTSTAMP:20260916T131223Z
+UID:fomc-20271208@eurusd-calendario
+DESCRIPTION:REUNION FED - tentativa\, con SEP y dot plot\nHora decision: 1
+ 4:00 hora del Este / rueda de prensa 14:30 hora del Este.\nIncluye proyecc
+ iones (SEP/dot plot): SI\n\nPASO 1 - De que va a tratar (Beige Book):\nhtt
+ ps://www.federalreserve.gov/monetarypolicy/beige-book-default.htm\n\nPASO 
+ 2 - Datos oficiales desde la reunion anterior (CPI/NFP/PCE):\nhttps://www.
+ bls.gov\nhttps://www.bea.gov\n\nPASO 3 - Consenso y noticias:\nhttps://www
+ .investing.com/economic-calendar\nhttps://www.reuters.com/markets/us\nhttp
+ s://www.bloomberg.com/markets/economics\nhttps://www.ft.com/central-banks
+ \n\nPASO 4 - Que tiene ya descontado el mercado (CME FedWatch):\nhttps://w
+ ww.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html\n\nPASO 5 - 
+ Volatilidad esperada (CME CVOL\, codigo EUVL para EUR/USD):\nhttps://www.c
+ megroup.com/cvol\n\nPASO 6 - Comunicado oficial del dia (consultar tras la
+  decision):\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.h
+ tm\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion BCE (sin proyecciones)
+DTSTART:20261029T133000Z
+DTSTAMP:20260916T131223Z
+UID:ecb-20261029@eurusd-calendario
+DESCRIPTION:REUNION BCE - sin proyecciones\nRueda de prensa: 14:30 CET.\nI
+ ncluye proyecciones nuevas: No\n\nPASO 1 - De que va a tratar (Economic Bu
+ lletin):\nhttps://www.ecb.europa.eu/press/economic-bulletin/html/index.en.
+ html\n\nPASO 2 - Datos oficiales desde la reunion anterior (HICP\, PMI\, P
+ IB):\nhttps://ec.europa.eu/eurostat\n\nPASO 3 - Consenso y noticias:\nhttp
+ s://www.investing.com/economic-calendar\nhttps://www.reuters.com/markets/e
+ urope\nhttps://www.bloomberg.com/markets/economics\nhttps://www.ft.com/cen
+ tral-banks\n\nPASO 4 - Discursos de Lagarde\, de Guindos y Lane desde la r
+ eunion anterior:\nhttps://www.ecb.europa.eu/press/key/html/index.en.html\n
+ \nPASO 5 - Comunicado oficial del dia (consultar tras la decision):\nhttps
+ ://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion BCE (con proyecciones)
+DTSTART:20261217T133000Z
+DTSTAMP:20260916T131223Z
+UID:ecb-20261217@eurusd-calendario
+DESCRIPTION:REUNION BCE - con proyecciones\nRueda de prensa: 14:30 CET.\nI
+ ncluye proyecciones nuevas: SI\n\nPASO 1 - De que va a tratar (Economic Bu
+ lletin):\nhttps://www.ecb.europa.eu/press/economic-bulletin/html/index.en.
+ html\n\nPASO 2 - Datos oficiales desde la reunion anterior (HICP\, PMI\, P
+ IB):\nhttps://ec.europa.eu/eurostat\n\nPASO 3 - Consenso y noticias:\nhttp
+ s://www.investing.com/economic-calendar\nhttps://www.reuters.com/markets/e
+ urope\nhttps://www.bloomberg.com/markets/economics\nhttps://www.ft.com/cen
+ tral-banks\n\nPASO 4 - Discursos de Lagarde\, de Guindos y Lane desde la r
+ eunion anterior:\nhttps://www.ecb.europa.eu/press/key/html/index.en.html\n
+ \nPASO 5 - Comunicado oficial del dia (consultar tras la decision):\nhttps
+ ://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion BCE (sin proyecciones)
+DTSTART:20270204T133000Z
+DTSTAMP:20260916T131223Z
+UID:ecb-20270204@eurusd-calendario
+DESCRIPTION:REUNION BCE - sin proyecciones\nRueda de prensa: 14:30 CET.\nI
+ ncluye proyecciones nuevas: No\n\nPASO 1 - De que va a tratar (Economic Bu
+ lletin):\nhttps://www.ecb.europa.eu/press/economic-bulletin/html/index.en.
+ html\n\nPASO 2 - Datos oficiales desde la reunion anterior (HICP\, PMI\, P
+ IB):\nhttps://ec.europa.eu/eurostat\n\nPASO 3 - Consenso y noticias:\nhttp
+ s://www.investing.com/economic-calendar\nhttps://www.reuters.com/markets/e
+ urope\nhttps://www.bloomberg.com/markets/economics\nhttps://www.ft.com/cen
+ tral-banks\n\nPASO 4 - Discursos de Lagarde\, de Guindos y Lane desde la r
+ eunion anterior:\nhttps://www.ecb.europa.eu/press/key/html/index.en.html\n
+ \nPASO 5 - Comunicado oficial del dia (consultar tras la decision):\nhttps
+ ://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion BCE (con proyecciones)
+DTSTART:20270318T133000Z
+DTSTAMP:20260916T131223Z
+UID:ecb-20270318@eurusd-calendario
+DESCRIPTION:REUNION BCE - con proyecciones\nRueda de prensa: 14:30 CET.\nI
+ ncluye proyecciones nuevas: SI\n\nPASO 1 - De que va a tratar (Economic Bu
+ lletin):\nhttps://www.ecb.europa.eu/press/economic-bulletin/html/index.en.
+ html\n\nPASO 2 - Datos oficiales desde la reunion anterior (HICP\, PMI\, P
+ IB):\nhttps://ec.europa.eu/eurostat\n\nPASO 3 - Consenso y noticias:\nhttp
+ s://www.investing.com/economic-calendar\nhttps://www.reuters.com/markets/e
+ urope\nhttps://www.bloomberg.com/markets/economics\nhttps://www.ft.com/cen
+ tral-banks\n\nPASO 4 - Discursos de Lagarde\, de Guindos y Lane desde la r
+ eunion anterior:\nhttps://www.ecb.europa.eu/press/key/html/index.en.html\n
+ \nPASO 5 - Comunicado oficial del dia (consultar tras la decision):\nhttps
+ ://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion BCE (sin proyecciones)
+DTSTART:20270429T123000Z
+DTSTAMP:20260916T131223Z
+UID:ecb-20270429@eurusd-calendario
+DESCRIPTION:REUNION BCE - sin proyecciones\nRueda de prensa: 14:30 CET.\nI
+ ncluye proyecciones nuevas: No\n\nPASO 1 - De que va a tratar (Economic Bu
+ lletin):\nhttps://www.ecb.europa.eu/press/economic-bulletin/html/index.en.
+ html\n\nPASO 2 - Datos oficiales desde la reunion anterior (HICP\, PMI\, P
+ IB):\nhttps://ec.europa.eu/eurostat\n\nPASO 3 - Consenso y noticias:\nhttp
+ s://www.investing.com/economic-calendar\nhttps://www.reuters.com/markets/e
+ urope\nhttps://www.bloomberg.com/markets/economics\nhttps://www.ft.com/cen
+ tral-banks\n\nPASO 4 - Discursos de Lagarde\, de Guindos y Lane desde la r
+ eunion anterior:\nhttps://www.ecb.europa.eu/press/key/html/index.en.html\n
+ \nPASO 5 - Comunicado oficial del dia (consultar tras la decision):\nhttps
+ ://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion BCE (con proyecciones)
+DTSTART:20270610T123000Z
+DTSTAMP:20260916T131223Z
+UID:ecb-20270610@eurusd-calendario
+DESCRIPTION:REUNION BCE - con proyecciones\nRueda de prensa: 14:30 CET.\nI
+ ncluye proyecciones nuevas: SI\n\nPASO 1 - De que va a tratar (Economic Bu
+ lletin):\nhttps://www.ecb.europa.eu/press/economic-bulletin/html/index.en.
+ html\n\nPASO 2 - Datos oficiales desde la reunion anterior (HICP\, PMI\, P
+ IB):\nhttps://ec.europa.eu/eurostat\n\nPASO 3 - Consenso y noticias:\nhttp
+ s://www.investing.com/economic-calendar\nhttps://www.reuters.com/markets/e
+ urope\nhttps://www.bloomberg.com/markets/economics\nhttps://www.ft.com/cen
+ tral-banks\n\nPASO 4 - Discursos de Lagarde\, de Guindos y Lane desde la r
+ eunion anterior:\nhttps://www.ecb.europa.eu/press/key/html/index.en.html\n
+ \nPASO 5 - Comunicado oficial del dia (consultar tras la decision):\nhttps
+ ://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion BCE (sin proyecciones)
+DTSTART:20270722T123000Z
+DTSTAMP:20260916T131223Z
+UID:ecb-20270722@eurusd-calendario
+DESCRIPTION:REUNION BCE - sin proyecciones\nRueda de prensa: 14:30 CET.\nI
+ ncluye proyecciones nuevas: No\n\nPASO 1 - De que va a tratar (Economic Bu
+ lletin):\nhttps://www.ecb.europa.eu/press/economic-bulletin/html/index.en.
+ html\n\nPASO 2 - Datos oficiales desde la reunion anterior (HICP\, PMI\, P
+ IB):\nhttps://ec.europa.eu/eurostat\n\nPASO 3 - Consenso y noticias:\nhttp
+ s://www.investing.com/economic-calendar\nhttps://www.reuters.com/markets/e
+ urope\nhttps://www.bloomberg.com/markets/economics\nhttps://www.ft.com/cen
+ tral-banks\n\nPASO 4 - Discursos de Lagarde\, de Guindos y Lane desde la r
+ eunion anterior:\nhttps://www.ecb.europa.eu/press/key/html/index.en.html\n
+ \nPASO 5 - Comunicado oficial del dia (consultar tras la decision):\nhttps
+ ://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion BCE (con proyecciones)
+DTSTART:20270909T123000Z
+DTSTAMP:20260916T131223Z
+UID:ecb-20270909@eurusd-calendario
+DESCRIPTION:REUNION BCE - con proyecciones\nRueda de prensa: 14:30 CET.\nI
+ ncluye proyecciones nuevas: SI\n\nPASO 1 - De que va a tratar (Economic Bu
+ lletin):\nhttps://www.ecb.europa.eu/press/economic-bulletin/html/index.en.
+ html\n\nPASO 2 - Datos oficiales desde la reunion anterior (HICP\, PMI\, P
+ IB):\nhttps://ec.europa.eu/eurostat\n\nPASO 3 - Consenso y noticias:\nhttp
+ s://www.investing.com/economic-calendar\nhttps://www.reuters.com/markets/e
+ urope\nhttps://www.bloomberg.com/markets/economics\nhttps://www.ft.com/cen
+ tral-banks\n\nPASO 4 - Discursos de Lagarde\, de Guindos y Lane desde la r
+ eunion anterior:\nhttps://www.ecb.europa.eu/press/key/html/index.en.html\n
+ \nPASO 5 - Comunicado oficial del dia (consultar tras la decision):\nhttps
+ ://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion BCE (sin proyecciones)
+DTSTART:20271028T133000Z
+DTSTAMP:20260916T131223Z
+UID:ecb-20271028@eurusd-calendario
+DESCRIPTION:REUNION BCE - sin proyecciones\nRueda de prensa: 14:30 CET.\nI
+ ncluye proyecciones nuevas: No\n\nPASO 1 - De que va a tratar (Economic Bu
+ lletin):\nhttps://www.ecb.europa.eu/press/economic-bulletin/html/index.en.
+ html\n\nPASO 2 - Datos oficiales desde la reunion anterior (HICP\, PMI\, P
+ IB):\nhttps://ec.europa.eu/eurostat\n\nPASO 3 - Consenso y noticias:\nhttp
+ s://www.investing.com/economic-calendar\nhttps://www.reuters.com/markets/e
+ urope\nhttps://www.bloomberg.com/markets/economics\nhttps://www.ft.com/cen
+ tral-banks\n\nPASO 4 - Discursos de Lagarde\, de Guindos y Lane desde la r
+ eunion anterior:\nhttps://www.ecb.europa.eu/press/key/html/index.en.html\n
+ \nPASO 5 - Comunicado oficial del dia (consultar tras la decision):\nhttps
+ ://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunion BCE (con proyecciones)
+DTSTART:20271216T133000Z
+DTSTAMP:20260916T131223Z
+UID:ecb-20271216@eurusd-calendario
+DESCRIPTION:REUNION BCE - con proyecciones\nRueda de prensa: 14:30 CET.\nI
+ ncluye proyecciones nuevas: SI\n\nPASO 1 - De que va a tratar (Economic Bu
+ lletin):\nhttps://www.ecb.europa.eu/press/economic-bulletin/html/index.en.
+ html\n\nPASO 2 - Datos oficiales desde la reunion anterior (HICP\, PMI\, P
+ IB):\nhttps://ec.europa.eu/eurostat\n\nPASO 3 - Consenso y noticias:\nhttp
+ s://www.investing.com/economic-calendar\nhttps://www.reuters.com/markets/e
+ urope\nhttps://www.bloomberg.com/markets/economics\nhttps://www.ft.com/cen
+ tral-banks\n\nPASO 4 - Discursos de Lagarde\, de Guindos y Lane desde la r
+ eunion anterior:\nhttps://www.ecb.europa.eu/press/key/html/index.en.html\n
+ \nPASO 5 - Comunicado oficial del dia (consultar tras la decision):\nhttps
+ ://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion (Beige Book / Economic Bulletin ya di
+ sponible)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay reunion / decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

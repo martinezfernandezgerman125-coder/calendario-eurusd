@@ -621,4 +621,30 @@ DESCRIPTION:Manana hay reunion / decision
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discurso FED - Nivel 2 (Vice Chair)
+DTSTART:20260918T170000Z
+DTSTAMP:20260916T150837Z
+UID:discurso-fed-20260918-speech-vice-chair-for-supervision-michel@eurusd-
+ calendario
+DESCRIPTION:Speech - Vice Chair for Supervision Michelle W. Bowman
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay evento
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultima comprobacion automatica: 16/09/2026
+DTSTART;VALUE=DATE:20260916
+DTSTAMP:20260916T150839Z
+UID:testigo-ultima-comprobacion@eurusd-calendario
+DESCRIPTION:Si esta fecha lleva 3 o mas dias sin cambiar\, el robot puede 
+ haberse roto.
+END:VEVENT
 END:VCALENDAR

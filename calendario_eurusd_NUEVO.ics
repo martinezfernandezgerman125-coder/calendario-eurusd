@@ -640,9 +640,27 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ultima comprobacion automatica: 17/09/2026
-DTSTART;VALUE=DATE:20260917
-DTSTAMP:20260917T111739Z
+SUMMARY:Discurso FED - Nivel 2 (Vice Chair)
+DTSTART:20260922T170000Z
+DTSTAMP:20260918T105103Z
+UID:discurso-fed-20260922-speech-vice-chair-philip-n-jefferson@eurusd-cale
+ ndario
+DESCRIPTION:Speech - Vice Chair Philip N. Jefferson
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay evento
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultima comprobacion automatica: 18/09/2026
+DTSTART;VALUE=DATE:20260918
+DTSTAMP:20260918T105104Z
 UID:testigo-ultima-comprobacion@eurusd-calendario
 DESCRIPTION:Si esta fecha lleva 3 o mas dias sin cambiar\, el robot puede 
  haberse roto.

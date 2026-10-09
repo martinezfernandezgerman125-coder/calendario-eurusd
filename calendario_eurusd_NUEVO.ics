@@ -748,9 +748,63 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ultima comprobacion automatica: 08/10/2026
-DTSTART;VALUE=DATE:20261008
-DTSTAMP:20261008T130458Z
+SUMMARY:Discurso FED - Nivel 1 (Chair)
+DTSTART:20261015T170000Z
+DTSTAMP:20261009T125123Z
+UID:discurso-fed-20261015-discussion-chairman-kevin-warsh@eurusd-calendari
+ o
+DESCRIPTION:Discussion - Chairman Kevin Warsh
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay evento
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discurso FED - Nivel 2 (Vice Chair)
+DTSTART:20261014T170000Z
+DTSTAMP:20261009T125123Z
+UID:discurso-fed-20261014-speech-vice-chair-for-supervision-michel@eurusd-
+ calendario
+DESCRIPTION:Speech - Vice Chair for Supervision Michelle W. Bowman
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay evento
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discurso FED - Nivel 2 (Vice Chair)
+DTSTART:20261014T170000Z
+DTSTAMP:20261009T125123Z
+UID:discurso-fed-20261014-discussion-vice-chair-for-supervision-mi@eurusd-
+ calendario
+DESCRIPTION:Discussion - Vice Chair for Supervision Michelle W. Bowman
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay evento
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultima comprobacion automatica: 09/10/2026
+DTSTART;VALUE=DATE:20261009
+DTSTAMP:20261009T125125Z
 UID:testigo-ultima-comprobacion@eurusd-calendario
 DESCRIPTION:Si esta fecha lleva 3 o mas dias sin cambiar\, el robot puede 
  haberse roto.

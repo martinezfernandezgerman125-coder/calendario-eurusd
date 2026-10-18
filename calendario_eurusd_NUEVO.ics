@@ -802,9 +802,9 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ultima comprobacion automatica: 17/10/2026
-DTSTART;VALUE=DATE:20261017
-DTSTAMP:20261017T102220Z
+SUMMARY:Ultima comprobacion automatica: 18/10/2026
+DTSTART;VALUE=DATE:20261018
+DTSTAMP:20261018T103855Z
 UID:testigo-ultima-comprobacion@eurusd-calendario
 DESCRIPTION:Si esta fecha lleva 3 o mas dias sin cambiar\, el robot puede 
  haberse roto.

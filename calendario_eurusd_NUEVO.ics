@@ -802,9 +802,27 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ultima comprobacion automatica: 29/10/2026
-DTSTART;VALUE=DATE:20261029
-DTSTAMP:20261029T123405Z
+SUMMARY:Discurso FED - Nivel 2 (Vice Chair)
+DTSTART:20261106T170000Z
+DTSTAMP:20261030T122529Z
+UID:discurso-fed-20261106-discussion-vice-chair-for-supervision-mi@eurusd-
+ calendario
+DESCRIPTION:Discussion - Vice Chair for Supervision Michelle W. Bowman
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay evento
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultima comprobacion automatica: 30/10/2026
+DTSTART;VALUE=DATE:20261030
+DTSTAMP:20261030T122530Z
 UID:testigo-ultima-comprobacion@eurusd-calendario
 DESCRIPTION:Si esta fecha lleva 3 o mas dias sin cambiar\, el robot puede 
  haberse roto.

@@ -820,9 +820,81 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ultima comprobacion automatica: 05/11/2026
-DTSTART;VALUE=DATE:20261105
-DTSTAMP:20261105T142116Z
+SUMMARY:Discurso FED - Nivel 2 (Vice Chair)
+DTSTART:20261113T170000Z
+DTSTAMP:20261106T135735Z
+UID:discurso-fed-20261113-speech-vice-chair-philip-n-jefferson@eurusd-cale
+ ndario
+DESCRIPTION:Speech - Vice Chair Philip N. Jefferson
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay evento
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discurso FED - Nivel 2 (Vice Chair)
+DTSTART:20261113T170000Z
+DTSTAMP:20261106T135735Z
+UID:discurso-fed-20261113-discussion-vice-chair-for-supervision-mi@eurusd-
+ calendario
+DESCRIPTION:Discussion - Vice Chair for Supervision Michelle W. Bowman
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay evento
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discurso FED - Nivel 2 (Vice Chair)
+DTSTART:20261110T170000Z
+DTSTAMP:20261106T135735Z
+UID:discurso-fed-20261110-speech-vice-chair-for-supervision-michel@eurusd-
+ calendario
+DESCRIPTION:Speech - Vice Chair for Supervision Michelle W. Bowman
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay evento
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discurso FED - Nivel 2 (Vice Chair)
+DTSTART:20261109T170000Z
+DTSTAMP:20261106T135735Z
+UID:discurso-fed-20261109-discussion-vice-chair-for-supervision-mi@eurusd-
+ calendario
+DESCRIPTION:Discussion - Vice Chair for Supervision Michelle W. Bowman
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay evento
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultima comprobacion automatica: 06/11/2026
+DTSTART;VALUE=DATE:20261106
+DTSTAMP:20261106T135736Z
 UID:testigo-ultima-comprobacion@eurusd-calendario
 DESCRIPTION:Si esta fecha lleva 3 o mas dias sin cambiar\, el robot puede 
  haberse roto.

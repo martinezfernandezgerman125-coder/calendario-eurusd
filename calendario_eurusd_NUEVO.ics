@@ -892,9 +892,26 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ultima comprobacion automatica: 12/11/2026
-DTSTART;VALUE=DATE:20261112
-DTSTAMP:20261112T145201Z
+SUMMARY:Discurso FED - Nivel 1 (Chair)
+DTSTART:20261116T170000Z
+DTSTAMP:20261113T141531Z
+UID:discurso-fed-20261116-speech-chairman-kevin-warsh@eurusd-calendario
+DESCRIPTION:Speech - Chairman Kevin Warsh
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Empieza la investigacion
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manana hay evento
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultima comprobacion automatica: 13/11/2026
+DTSTART;VALUE=DATE:20261113
+DTSTAMP:20261113T141532Z
 UID:testigo-ultima-comprobacion@eurusd-calendario
 DESCRIPTION:Si esta fecha lleva 3 o mas dias sin cambiar\, el robot puede 
  haberse roto.
